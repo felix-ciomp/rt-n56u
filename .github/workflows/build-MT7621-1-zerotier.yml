@@ -1,4 +1,4 @@
-name: build-firmware-zerotier
+name: build-MT7621-1-zerotier
 
 on: 
   release:
