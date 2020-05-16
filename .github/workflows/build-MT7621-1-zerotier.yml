@@ -3,11 +3,11 @@ name: build-MT7621-1-zerotier
 on: 
   release:
     types: [published]
-#  push:
-#    tags:
-#    - 'v*'
-  #  branches: 
-  #    - master
+  push:
+    tags:
+    - 'v*'
+    branches: 
+      - master
   schedule:
     - cron: 0 17 * * 4
 #  watch:
