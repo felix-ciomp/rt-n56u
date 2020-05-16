@@ -1,3 +1,6 @@
+##2020.5.16 ##by felixciomp
+ 删除了adguardhome,增加zerotier.
+ 
 ##2020.05.07##
 * 增加zerotier 1.4.6内网穿透
 * openssl更新1.1.1g
